@@ -17,7 +17,7 @@
     <meta name="author" content="">
 
     <title>Freelancer - Start Bootstrap Theme</title>
-
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
